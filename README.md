@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley L.
 ##
-- I’m currently focusing on react and node js
+- I’m currently focusing on dotnet and react js
 ##
 <div align="center">
   <a href="https://github.com/wesleylcarraway">
