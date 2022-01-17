@@ -1,7 +1,7 @@
 ### Hi, I'm Wesley L.
 ##
 - I love creating and builds things
-- I’m currently focusing on dotnet and react js
+- I'm currently focusing on dotnet and react js
 ##
 <div align="center">
   <a href="https://github.com/wesleylcarraway">
